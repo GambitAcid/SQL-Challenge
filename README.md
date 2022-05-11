@@ -1,2 +1,3 @@
 # sql-challenge
-PostGRSsQLHomework 
+PostGRS SQL Challenge 
+Pewlett Hackard Employee Analysis
