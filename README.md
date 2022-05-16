@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 9 Homework: Employee Database
 
 ## Background
@@ -112,3 +113,8 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
+=======
+# sql-challenge
+PostGRS SQL Challenge 
+Pewlett Hackard Employee Analysis
+>>>>>>> c4e0c6009dde58110d6dd69f24bb6d752e02462d
